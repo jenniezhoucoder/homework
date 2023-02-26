@@ -1,0 +1,55 @@
+body {
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+
+.heading {
+    color:cornflowerblue;
+    text-align: center;
+}
+
+.search {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.input {
+    height: 30px;
+    width:400px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    border: 1px solid rgba(51, 51, 51, 0.05);;
+}
+
+.button {
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0;
+  padding: 8px 10px;
+  text-align: center;
+}
+
+.button:hover{
+    color: pink;
+    background-color: #333333;
+}
+
+.table {
+    width: 100%;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.unordered, .ordered {
+    padding: 20px;
+}
