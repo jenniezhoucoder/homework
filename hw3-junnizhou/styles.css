@@ -1,0 +1,50 @@
+body {
+    background-color: #fffbeb;
+    font-family: sans-serif;
+    color: #713f12;
+    margin: 50px;
+}
+
+.heading {
+    text-align: center;
+}
+
+#table {
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fde68a;
+}
+
+#header {
+    background-color: #fde047;
+}
+
+
+#form {
+    text-align: left;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#addButton {
+    background-color: rgba(51, 51, 51, 0.05);
+    border-radius: 8px;
+    border-width: 0;
+    color: #333333;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#unordered {
+    background-color: #fde68a;
+}
+
+#ordered {
+    background-color: #fde68a;
+}
+
+
