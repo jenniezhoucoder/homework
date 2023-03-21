@@ -1,0 +1,62 @@
+body {
+  background-color: #fffbeb;
+  font-family: sans-serif;
+  color: #713f12;
+  margin: 50px;
+}
+
+.heading {
+  text-align: center;
+}
+
+#form {
+  text-align: center;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#input {
+  height: 30px;
+  width: 400px;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 20px;
+  border: 1px solid rgba(51, 51, 51, 0.05);
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+button {
+  background-color: rgba(51, 51, 51, 0.05);
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  font-size: 10px;
+  font-weight: 500;
+  margin: 0;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+button:hover {
+  color: pink;
+  background-color: #333333;
+}
+
+#submit:hover {
+  color: pink;
+  background-color: #333333;
+}
+
+#list {
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
+}
